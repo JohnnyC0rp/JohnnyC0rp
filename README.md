@@ -1,5 +1,13 @@
 <h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​<a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social"></h1>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+
+<p align = "center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+---
 
 <details open>
   <summary><h1> ​ STATS </h1></summary>
@@ -68,8 +76,3 @@
 # Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/JohnnyCorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rottematvey@gmail.com&tf=cm)
-
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
