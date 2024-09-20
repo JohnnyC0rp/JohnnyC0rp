@@ -1,4 +1,4 @@
-<h1 align="center">HI THERE, ​I'm​<a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social"></h1>
+<h1 align="center">HI THERE, ​I'm​ <a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social"></h1>
 
 
 
