@@ -16,7 +16,7 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=50&grid=false&from=2023-08-13&to=2023-09-08)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
 
 <!-- below is current activity  -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=50&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=30&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <div>
 <p align = "center">
