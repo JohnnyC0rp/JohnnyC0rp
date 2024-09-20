@@ -11,6 +11,13 @@
 
 <details open>
   <summary><h1> ​ STATS </h1></summary>
+	
+<!-- this is a comment, period when I did lots of commits -->
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=50&grid=false&from=2023-08-13&to=2023-09-08)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
+
+<!-- below is current activity  -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=50&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 <div>
 <p align = "center">
   <img alt="JohnnyC0rp's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=JohnnyC0rp&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
@@ -24,7 +31,6 @@
   </p>
 </div>
   
-
 
 </details>
 
@@ -85,3 +91,4 @@
 # Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/JohnnyCorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rottematvey@gmail.com&tf=cm)
+
