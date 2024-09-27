@@ -1,7 +1,4 @@
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1 align="center">HI THERE, ​I'm​ <a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social">   </h1>
 <div align="center"> 
 
@@ -12,6 +9,8 @@
   <img alt="Total unique views by IP" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=unique&label=Unique%20views%20by%20IP"> 
 
 </div>
+
+<div align = "center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="50%"> </div>
 
 <div align="center"> 
 	
@@ -46,7 +45,6 @@
 </div>
   
 
- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center"><h1> >>> ​Technical stack <<< </h1></div>
 
 <div align="center">
@@ -89,7 +87,7 @@
 [![plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)](#)
 [![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
   
-# Design 
+# >>> Design <<<
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665)](#)
@@ -99,7 +97,7 @@
 
 
 
-# Contact me 
+# >>> Contact me <<<
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/JohnnyCorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rottematvey@gmail.com&tf=cm)
 
