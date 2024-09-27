@@ -1,21 +1,35 @@
-<h1 align="center">HI THERE, ​I'm​ <a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social"></h1>
-
-
-
 <p align = "center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center">HI THERE, ​I'm​ <a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social">   </h1>
+<div align="center"> 
+
+  <img alt="Profile views" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=total&label=Profile%20views"> 
+
+  <img alt="Today's views" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=daily&label=Today's%20views"> 
+
+  <img alt="Total unique views by IP" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=unique&label=Unique%20views%20by%20IP"> 
+
+</div>
+
+<div align="center"> 
+	
+  <img alt="All views are counted from 28 September 2024" src="https://img.shields.io/badge/All%20views%20are%20counted%20from%20-28%20September%202024-blue">    <img alt="Unique IP resets every 30 mins" src="https://img.shields.io/badge/Unique%20IP%20resets%20every%20-30%20mins-blue">
+</div>
+
+
+
+
 
 ---
+<div align="center"><h1> ​ >>> Activity <<< </h1></div>
 
-<details open>
-  <summary><h1> ​ STATS </h1></summary>
-	
 <!-- this is a comment, period when I did lots of commits -->
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=50&grid=false&from=2023-08-13&to=2023-09-08)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
 
 <!-- below is current activity  -->
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=30&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <div>
@@ -32,13 +46,11 @@
 </div>
   
 
-</details>
-
-<details open>
-  <summary><h1> ​TECHNICAL  STACK </h1></summary>
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div align="center"><h1> >>> ​Technical stack <<< </h1></div>
 
 <div align="center">
-  
+	
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -85,10 +97,14 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
 
 
-</details>
 
 
 # Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/JohnnyCorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rottematvey@gmail.com&tf=cm)
+
+<!--
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p> -->
 
