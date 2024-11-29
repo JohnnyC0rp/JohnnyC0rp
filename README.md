@@ -1,16 +1,16 @@
 
 <h1 align="center">HI THERE, ​I'm​ <a href="https://github.com/JohnnyC0rp" target="_blank">Johnny! (JohnnyCorp) ​</a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnnyC0rp?style=social">   </h1>
 <div align="center"> 
-
   <img alt="Profile views" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=total&label=Profile%20views"> 
-
   <img alt="Today's views" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=daily&label=Today's%20views"> 
-
   <img alt="Total unique views by IP" src="https://views-counter.vercel.app/badge?pageId=JohnnyC0rp&leftColor=5c5c5c&rightColor=0000ff&type=unique&label=Unique%20views%20by%20IP"> 
-
 </div>
 
-<div align = "center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="50%"> </div>
+
+
+
+
+
 
 <div align="center"> 
 	
@@ -21,7 +21,7 @@
 
 
 
----
+<div align = "center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
 <div align="center"><h1> ​ >>> Activity <<< </h1></div>
 
 <!-- this is a comment, period when I did lots of commits -->
