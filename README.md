@@ -29,21 +29,14 @@
 
 <!-- below is current activity  -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=30&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=ADD8E680&bg_color=00000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=30&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <div>
 <p align = "center">
-  <img alt="JohnnyC0rp's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=JohnnyC0rp&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
+  <img alt="JohnnyC0rp's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=JohnnyC0rp&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
   <img alt="JohnnyC0rp's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyC0rp&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact&hide=jupyter%20notebook,css,html">
 </p>
 </div>
-
-<div>
-  <p align = "center">
-  <img alt="ITQ's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnnyC0rp&theme=transparent&hide_border=true">
-  </p>
-</div>
-  
 
 <div align="center"><h1> >>> ​Technical stack <<< </h1></div>
 
