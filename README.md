@@ -24,8 +24,6 @@
 <div align = "center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
 <div align="center"><h1> ​ >>> Activity <<< </h1></div>
 
-<!-- this is a comment, period when I did lots of commits -->
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=000000&bg_color=000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=50&grid=false&from=2023-08-13&to=2023-09-08)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
 
 <!-- below is current activity  -->
 
@@ -37,10 +35,6 @@
   <img alt="JohnnyC0rp's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyC0rp&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact&hide=jupyter%20notebook,css,html">
 </p>
 </div>
-
-<p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JohnnyC0rp&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</p>
 
 <div align="center"><h1> >>> ​Technical stack <<< </h1></div>
 
