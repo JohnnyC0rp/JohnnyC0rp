@@ -23,18 +23,19 @@
 
 <div align = "center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
 <div align="center"><h1> ​ >>> Activity <<< </h1></div>
-
-
 <!-- below is current activity  -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=ADD8E680&bg_color=00000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=30&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+
+<!-- 
 <div>
 <p align = "center">
   <img alt="JohnnyC0rp's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=JohnnyC0rp&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
   <img alt="JohnnyC0rp's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyC0rp&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact&hide=jupyter%20notebook,css,html">
 </p>
 </div>
+-->
 
 <div align="center"><h1> >>> ​Technical stack <<< </h1></div>
 
@@ -95,8 +96,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/JohnnyCorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rottematvey@gmail.com&tf=cm)
 
-<!--
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p> -->
+</p> 
 
