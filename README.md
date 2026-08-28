@@ -25,7 +25,7 @@
 <div align="center"><h1> ​ >>> Activity <<< </h1></div>
 <!-- below is current activity  -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnnyC0rp&area_color=ADD8E680&bg_color=00000000&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true&days=30&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![JohnnyC0rp's GitHub activity graph](https://raw.githubusercontent.com/JohnnyC0rp/growing-contribution-snake/output/github-activity-graph.svg)](https://github.com/JohnnyC0rp/growing-contribution-snake)
 
 
 <!-- 
@@ -98,6 +98,5 @@
 
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  <a href="https://github.com/JohnnyC0rp/growing-contribution-snake"><img src="https://raw.githubusercontent.com/JohnnyC0rp/growing-contribution-snake/output/github-contribution-grid-snake.svg" alt="Growing GitHub contribution snake" width="100%"/></a>
 </p> 
-
