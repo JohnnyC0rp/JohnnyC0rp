@@ -23,7 +23,7 @@
 
 <div align = "center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </div>
 <div align="center"><h1> ​ >>> Activity <<< </h1></div>
-<!-- below is current activity  -->
+<!-- Growing contribution snake -->
 
 [![Growing GitHub contribution snake](https://raw.githubusercontent.com/JohnnyC0rp/growing-contribution-snake/output/github-contribution-grid-snake.svg)](https://github.com/JohnnyC0rp/growing-contribution-snake)
 
