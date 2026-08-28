@@ -1,0 +1,16 @@
+{
+  "name": "github-profile-activity-graph",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate and publish a static GitHub profile activity graph.",
+  "type": "module",
+  "scripts": {
+    "check": "node --check src/activity-graph.mjs && node --check scripts/generate-activity-graph.mjs && node --check scripts/validate-output.mjs",
+    "generate": "node scripts/generate-activity-graph.mjs",
+    "test": "node --test test/*.test.mjs",
+    "validate": "node scripts/validate-output.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

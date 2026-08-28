@@ -1,0 +1,76 @@
+name: Generate profile activity graph
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/generate-activity-graph.yml"
+      - "package.json"
+      - "scripts/**"
+      - "src/**"
+      - "test/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-graph-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate and publish the activity graph
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out the generator
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 20
+
+      - name: Check and test
+        run: npm run check && npm test
+
+      - name: Generate and validate the SVG
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: ${{ vars.PROFILE_USERNAME || github.repository_owner }}
+        run: npm run generate && npm run validate
+
+      - name: Publish the output branch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          publish_dir="${RUNNER_TEMP}/profile-activity-graph"
+          mkdir -p "${publish_dir}"
+          cp dist/github-activity-graph.svg "${publish_dir}/"
+
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch --depth=1 origin +refs/heads/output:refs/remotes/origin/output
+            git switch --detach origin/output
+            git rm -rf --ignore-unmatch .
+          else
+            git switch --orphan output
+          fi
+
+          cp "${publish_dir}/github-activity-graph.svg" .
+          git add -- github-activity-graph.svg
+
+          if git diff --cached --quiet; then
+            echo "The profile activity graph is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile activity graph"
+          git push origin HEAD:output
