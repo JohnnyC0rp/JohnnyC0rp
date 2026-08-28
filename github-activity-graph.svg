@@ -20,10 +20,10 @@
     <line class="axis" x1="58" y1="58" x2="58" y2="218"/>
     <line class="axis" x1="58" y1="218" x2="834" y2="218"/>
     <text class="axis-label" x="48" y="222" text-anchor="end">0</text>
-    <text class="axis-label" x="48" y="182" text-anchor="end">1.3</text>
-    <text class="axis-label" x="48" y="142" text-anchor="end">2.5</text>
-    <text class="axis-label" x="48" y="102" text-anchor="end">3.8</text>
-    <text class="axis-label" x="48" y="62" text-anchor="end">5</text>
+    <text class="axis-label" x="48" y="182" text-anchor="end">5</text>
+    <text class="axis-label" x="48" y="142" text-anchor="end">10</text>
+    <text class="axis-label" x="48" y="102" text-anchor="end">15</text>
+    <text class="axis-label" x="48" y="62" text-anchor="end">20</text>
     <text class="axis-label" x="58" y="243" text-anchor="middle">Jul 30</text>
     <text class="axis-label" x="191.793103" y="243" text-anchor="middle">Aug 4</text>
     <text class="axis-label" x="325.586207" y="243" text-anchor="middle">Aug 9</text>
@@ -33,8 +33,8 @@
     <text class="axis-label" x="834" y="243" text-anchor="middle">Aug 28</text>
   </g>
   <g id="activity">
-    <path class="area" d="M58 218 L58 218 L84.758621 218 L111.517241 218 L138.275862 218 L165.034483 218 L191.793103 218 L218.551724 218 L245.310345 218 L272.068966 218 L298.827586 218 L325.586207 218 L352.344828 218 L379.103448 218 L405.862069 218 L432.62069 218 L459.37931 218 L486.137931 218 L512.896552 218 L539.655172 218 L566.413793 218 L593.172414 218 L619.931034 218 L646.689655 218 L673.448276 218 L700.206897 218 L726.965517 218 L753.724138 218 L780.482759 218 L807.241379 218 L834 90 L834 218 Z"/>
-    <path class="line" d="M58 218 L84.758621 218 L111.517241 218 L138.275862 218 L165.034483 218 L191.793103 218 L218.551724 218 L245.310345 218 L272.068966 218 L298.827586 218 L325.586207 218 L352.344828 218 L379.103448 218 L405.862069 218 L432.62069 218 L459.37931 218 L486.137931 218 L512.896552 218 L539.655172 218 L566.413793 218 L593.172414 218 L619.931034 218 L646.689655 218 L673.448276 218 L700.206897 218 L726.965517 218 L753.724138 218 L780.482759 218 L807.241379 218 L834 90"/>
+    <path class="area" d="M58 218 L58 218 L84.758621 218 L111.517241 218 L138.275862 218 L165.034483 218 L191.793103 218 L218.551724 218 L245.310345 218 L272.068966 218 L298.827586 218 L325.586207 218 L352.344828 218 L379.103448 218 L405.862069 218 L432.62069 218 L459.37931 218 L486.137931 218 L512.896552 218 L539.655172 218 L566.413793 218 L593.172414 218 L619.931034 218 L646.689655 218 L673.448276 218 L700.206897 218 L726.965517 218 L753.724138 218 L780.482759 218 L807.241379 218 L834 130 L834 218 Z"/>
+    <path class="line" d="M58 218 L84.758621 218 L111.517241 218 L138.275862 218 L165.034483 218 L191.793103 218 L218.551724 218 L245.310345 218 L272.068966 218 L298.827586 218 L325.586207 218 L352.344828 218 L379.103448 218 L405.862069 218 L432.62069 218 L459.37931 218 L486.137931 218 L512.896552 218 L539.655172 218 L566.413793 218 L593.172414 218 L619.931034 218 L646.689655 218 L673.448276 218 L700.206897 218 L726.965517 218 L753.724138 218 L780.482759 218 L807.241379 218 L834 130"/>
     <circle class="point" cx="58" cy="218" r="3"><title>2026-07-30: 0 contributions</title></circle>
     <circle class="point" cx="84.758621" cy="218" r="3"><title>2026-07-31: 0 contributions</title></circle>
     <circle class="point" cx="111.517241" cy="218" r="3"><title>2026-08-01: 0 contributions</title></circle>
@@ -64,6 +64,6 @@
     <circle class="point" cx="753.724138" cy="218" r="3"><title>2026-08-25: 0 contributions</title></circle>
     <circle class="point" cx="780.482759" cy="218" r="3"><title>2026-08-26: 0 contributions</title></circle>
     <circle class="point" cx="807.241379" cy="218" r="3"><title>2026-08-27: 0 contributions</title></circle>
-    <circle class="point" cx="834" cy="90" r="3"><title>2026-08-28: 4 contributions</title></circle>
+    <circle class="point" cx="834" cy="130" r="3"><title>2026-08-28: 11 contributions</title></circle>
   </g>
 </svg>
