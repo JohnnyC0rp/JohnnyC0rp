@@ -25,7 +25,7 @@
 <div align="center"><h1> ​ >>> Activity <<< </h1></div>
 <!-- below is current activity  -->
 
-[![JohnnyC0rp's GitHub activity graph](https://raw.githubusercontent.com/JohnnyC0rp/growing-contribution-snake/output/github-activity-graph.svg)](https://github.com/JohnnyC0rp/growing-contribution-snake)
+[![Growing GitHub contribution snake](https://raw.githubusercontent.com/JohnnyC0rp/growing-contribution-snake/output/github-contribution-grid-snake.svg)](https://github.com/JohnnyC0rp/growing-contribution-snake)
 
 
 <!-- 
@@ -98,5 +98,5 @@
 
 
 <p align = "center">
-  <a href="https://github.com/JohnnyC0rp/growing-contribution-snake"><img src="https://raw.githubusercontent.com/JohnnyC0rp/growing-contribution-snake/output/github-contribution-grid-snake.svg" alt="Growing GitHub contribution snake" width="100%"/></a>
+  <a href="https://github.com/JohnnyC0rp/JohnnyC0rp"><img src="https://raw.githubusercontent.com/JohnnyC0rp/JohnnyC0rp/output/github-activity-graph.svg" alt="JohnnyC0rp's GitHub activity graph" width="100%"/></a>
 </p> 
